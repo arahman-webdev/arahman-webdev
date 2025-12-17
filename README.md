@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="500" width="full" src="https://i.ibb.co.com/GQtH7p19/abdurrahman-banner.png"  />
+  <img src="https://i.ibb.co/GQtH7p19/abdurrahman-banner.png" height="500" width="100%" alt="Abdur Rahman Banner" />
 </div>
+
 
 ###
 
