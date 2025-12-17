@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/54YByv6/github-img-bg.png"  />
+  <img height="200" src="https://i.ibb.co.com/QvmbqmJw/my-banner.png"  />
 </div>
 
 ###
@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">Hi, I’m Abdur Rahman – a passionate junior web developer from Bangladesh. I specialize in front-end and back-end technologies like React, JavaScript, Node.js, and MongoDB. I’m always eager to learn new skills, collaborate on exciting projects, and build innovative web applications.</p>
+<p align="left">Hey! I’m Abdur Rahman, a passionate Full-Stack Developer from Bangladesh. I enjoy turning ideas into real-world web applications using Next.js, React,Typescript, Node.js, and PostgreSQL/MongoDB.
+I build projects like tour booking apps, courier services, and my own portfolio site to showcase my work.
+Always eager to learn, code, and collaborate on interesting projects!.</p>
 
 ###
 
